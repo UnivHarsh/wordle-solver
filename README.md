@@ -59,7 +59,7 @@ Average performance metrics:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/iliasmaatallaoui/wordle-solver.git
+git clone https://github.com/UnivHarsh/wordle-solver.git
 ```
 
 2. Install requirements:
@@ -98,10 +98,3 @@ http://localhost:5000
 - Dictionary data modified from [English Dictionary Database](https://github.com/benjihillard/English-Dictionary-Database) by Benji Hillard
 - Entropy calculation methodology inspired by information theory principles
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
